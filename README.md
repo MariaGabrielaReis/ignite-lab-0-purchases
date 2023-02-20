@@ -25,13 +25,14 @@ $ yarn dev
 > Use o Insomnia, por exemplo, para realizar as requisições (importe a coleção [deste arquivo](./requests_collection))
 
 ## ✔️ Funcionalidades
-**Admin |** Cadastro de produtos <br>
-**Admin |** Listagem de produtos <br>
+
+**Admin |** Listar matrículas <br>
+**Admin |** Listar alunos <br>
+**Admin |** Listar cursos <br>
+**Admin |** Cadastrar cursos <br>
  <br>
-**Auth |** Listagem de compras <br>
- <br>
-**Public |** Compra de um produto <br>
-**Public |** Lista produtos disponíveis p/ compra <br>
+**Auth |** Listar cursos que tenho acesso <br>
+**Auth |** Acessar conteúdo do curso <br>
 
 <br>
 
