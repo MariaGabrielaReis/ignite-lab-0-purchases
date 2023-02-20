@@ -26,13 +26,13 @@ $ yarn dev
 
 ## ✔️ Funcionalidades
 
-**Admin |** Listar matrículas <br>
-**Admin |** Listar alunos <br>
-**Admin |** Listar cursos <br>
-**Admin |** Cadastrar cursos <br>
+**Admin |** Cadastro de produtos <br>
+**Admin |** Listagem de produtos <br>
  <br>
-**Auth |** Listar cursos que tenho acesso <br>
-**Auth |** Acessar conteúdo do curso <br>
+**Auth |** Listagem de compras <br>
+ <br>
+**Public |** Compra de um produto <br>
+**Public |** Lista produtos disponíveis p/ compra <br>
 
 <br>
 
